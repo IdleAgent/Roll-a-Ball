@@ -27,13 +27,6 @@ This game was created while learning Unity and C# as part of my game development
 
 
 ---
-## 📸 Screenshots
-
-![Splash](screenshots/Screenshot 2026-01-14 132208.png)
-![Menu](screenshots/Screenshot 2026-01-14 132212.png)
-![Gameplay](screenshots/Screenshot 2026-01-14 132221.png)
-![Lose](screenshots/Screenshot 2026-01-14 132249.png)
-![Win](screenshots/Screenshot 2026-01-14 132415.png)
 
 
 
